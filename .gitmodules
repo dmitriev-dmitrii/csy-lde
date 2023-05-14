@@ -1,3 +1,11 @@
-[submodule "csy-admin-ui"]
-	path = modules/csy-admin-ui
+[submodule "git-submodules/csy-users-service"]
+	path = git-submodules/csy-users-service
+	url = https://github.com/dmitriev-dmitrii/csy-users-service
+
+[submodule "git-submodules/csy-admin-ui"]
+	path = git-submodules/csy-admin-ui
 	url = https://github.com/dmitriev-dmitrii/csy-admin-ui
+
+[submodule "git-submodules/csy-catalog-server"]
+	path = git-submodules/csy-catalog-server
+	url = https://github.com/dmitriev-dmitrii/csy-catalog-server
