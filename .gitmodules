@@ -6,6 +6,6 @@
 	path = git-submodules/csy-admin-ui
 	url = https://github.com/dmitriev-dmitrii/csy-admin-ui
 
-[submodule "git-submodules/csy-catalog-server"]
-	path = git-submodules/csy-catalog-server
-	url = https://github.com/dmitriev-dmitrii/csy-catalog-server
+[submodule "git-submodules/csy-catalog-service"]
+	path = git-submodules/csy-catalog-service
+	url = https://github.com/dmitriev-dmitrii/csy-catalog-service
