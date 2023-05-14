@@ -1,0 +1,3 @@
+[submodule "csy-admin-ui"]
+	path = modules/csy-admin-ui
+	url = https://github.com/dmitriev-dmitrii/csy-admin-ui
